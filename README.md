@@ -1,4 +1,3 @@
-# DS.v3.3.1.5
 # Travel Insurance Prediction
 
 ## Project Overview
